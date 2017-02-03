@@ -124,9 +124,6 @@ def print_byte(bin_num) :
 print("\nASSIGNMENT 1: BINARY CRC\n")
 # c1 = 0	c2 = 1		d1 = 2		c4 = 3		d2 = 4		d3 = 5
 # d4 = 6	c8 = 7		d5 = 8		d6 = 9		d7 = 10		d8 = 11
-
-# TODO: Make this into a query loop when you're done debugging.
-
 while True :
 	error_count = 0
 	bin_num = enter_bin() 		# USER INPUT
